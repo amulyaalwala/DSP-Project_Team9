@@ -17,4 +17,6 @@
 •	**The Sign Language Dataset** and **Phase1_Hand Gesture Dataset** folder have train, test folders with in them.
 
 
+This project is implemented for Data Science Programming course and has references and inspiration from a lot of information available from research papers, keras and other kaggle implementations
+
 
